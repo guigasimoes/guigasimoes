@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @guigasimoes
+- 👀 I'm interested in learning and developing mobile projects.
+- 🌱 I’m currently learning Java/Kotlin.
+- 💞️ I’m looking to collaborate with projects in this area.
+- 📫 How to reach me (guigaengenheiro@gmail.com)
